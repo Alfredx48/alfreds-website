@@ -1,4 +1,24 @@
 body {
-    background: blue;
+    background: #0c0011;
+    margin: 0;
+    padding: 0;
+ }
  
+#topHeader {
+   width: 100000px;
+   height: 60px;
+   background: #7405ad;
+
+ }
+
+#blackRectangle {
+    width: 600px;
+    height: 100px;
+    background: black;
+    color: #ffff;
+    font-size: 30px;
 }
+
+ h1 {
+    color: #ffff
+ }
